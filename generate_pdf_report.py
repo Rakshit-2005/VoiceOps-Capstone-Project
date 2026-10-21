@@ -157,7 +157,7 @@ def build_pdf():
     # =========================================================================
     story.append(Paragraph("VoiceOps 2026: ZentroMart Support Agent", title_style))
     story.append(Paragraph("CAPSTONE PROJECT FINAL REPORT · IIT GUWAHATI × GNANI.AI", subtitle_style))
-    story.append(Paragraph("<b>Author / Candidate:</b> AI Engineering Team &nbsp;|&nbsp; <b>Track:</b> LLM & Generative AI Capstone &nbsp;|&nbsp; <b>Date:</b> October 2026", meta_style))
+    story.append(Paragraph("<b>Author / Candidate:</b> Rakshit Modanwal &nbsp;|&nbsp; <b>GitHub Repository:</b> <a href='https://github.com/Rakshit-2005/VoiceOps-Capstone-Project' color='#2563eb'><u>https://github.com/Rakshit-2005/VoiceOps-Capstone-Project</u></a><br/><b>Track:</b> LLM & Generative AI Capstone &nbsp;|&nbsp; <b>Date:</b> October 2026", meta_style))
     story.append(HRFlowable(width="100%", thickness=1, color=colors.HexColor("#e2e8f0"), spaceAfter=8))
 
     story.append(Paragraph("1. Executive Summary & Problem Statement", h1_style))
@@ -454,8 +454,8 @@ def build_pdf():
         ],
         [
             Paragraph("<b>Source Code Repository</b>", table_cell),
-            Paragraph("<code>src/</code>", table_cell),
-            Paragraph("Modular architecture (config, kb_indexer, tools, agent, voice pipeline).", table_cell)
+            Paragraph("<a href='https://github.com/Rakshit-2005/VoiceOps-Capstone-Project' color='#2563eb'><u>github.com/Rakshit-2005/<br/>VoiceOps-Capstone-Project</u></a>", table_cell),
+            Paragraph("Public GitHub repository with setup steps, architecture, and run command.", table_cell)
         ],
         [
             Paragraph("<b>Project Report (PDF)</b>", table_cell),

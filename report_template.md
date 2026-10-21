@@ -1,5 +1,6 @@
 # VoiceOps 2026: Capstone Project Report
-**Team Name:** Team VoiceOps  
+**Author:** Rakshit Modanwal  
+**GitHub Repository:** [https://github.com/Rakshit-2005/VoiceOps-Capstone-Project](https://github.com/Rakshit-2005/VoiceOps-Capstone-Project)  
 **Track:** VoiceOps 2026 · Consulting & Analytics Club, IIT Guwahati × Gnani.ai  
 **Date:** October 2026  
 
