@@ -1,0 +1,20 @@
+# Environment & Secrets
+.env
+.env.local
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Vector DB storage (rebuilds automatically)
+.chroma_db/
+
+# Diagnostics & temporary logs
+diagnostic_output.txt
+*.log
+
+# OS artifacts
+.DS_Store
+Thumbs.db

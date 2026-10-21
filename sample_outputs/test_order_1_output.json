@@ -1,0 +1,9 @@
+{
+  "file_name": "test_order_1.wav",
+  "transcription": "[Transcript unavailable: Please set GNANI_API_KEY]",
+  "agent_reply": "Hello! I am ZentroMart's AI assistant. How can I help you today? If this is about an order, please provide your order ID.",
+  "retrieved_chunks": [
+    "STY-1"
+  ],
+  "audio_reply_file": "test_order_1_reply.wav"
+}

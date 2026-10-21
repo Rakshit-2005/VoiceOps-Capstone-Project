@@ -1,0 +1,20 @@
+ticket_id,created_at,order_id,intent,reason,summary
+TKT1fb13f51b693488c94691d348473187b,2026-10-21T20:01:34,89782837,,high_value_damage,Customer reports damage requiring Priority Resolution inspection for order 89782837.
+TKT25dba1af686d45b69d6b66491f1900ab,2026-10-21T20:01:59,77461439,,verification_failed,Caller verification failed twice for order 77461439.
+TKTe66e3538fd7a49568c38ba3102ffd8e8,2026-10-21T20:01:59,77461439,,verification_failed,Caller verification failed twice for order 77461439.
+TKT3303dd9f0c224caab398ed90e25ab6ac,2026-10-21T20:01:59,56646891,,verification_failed,Caller verification failed twice for order 56646891.
+TKT891442b02240469c8d80573096b7989f,2026-10-21T20:01:59,56646891,,verification_failed,Caller verification failed twice for order 56646891.
+TKTddc61b80c9f84c2984eec93670663a3f,2026-10-21T20:11:57,,,account_security,Customer reports an unauthorized order placed on account; security escalation required.
+TKT23ad3dea6f8048199781726132fa3a57,2026-10-21T20:11:57,,,high_value_damage,"Customer reports damage on high value product (> ₹10,000); hand over to Priority Resolution."
+TKT1e498f04ee4242e488e682e10e3bec55,2026-10-21T20:11:57,,,high_value_damage,"Customer reports damage on high value product (> ₹10,000); hand over to Priority Resolution."
+TKT7fc9ca6e70184d3694adb8edb9950cd9,2026-10-21T20:13:39,,,account_security,Customer reports an unauthorized order placed on account; security escalation required.
+TKTfa457435444640018d7fb1a27e4fc924,2026-10-21T20:13:39,,,high_value_damage,"Customer reports damage on high value product (> ₹10,000); hand over to Priority Resolution."
+TKTee5eece4c49e40d9bb79cc30406bbfc2,2026-10-21T20:13:39,,,high_value_damage,"Customer reports damage on high value product (> ₹10,000); hand over to Priority Resolution."
+TKTa8671bdb7a70479d99d10d16e7c129c2,2026-10-21T20:13:59,,,account_security,Customer reports an unauthorized order placed on account; security escalation required.
+TKT38b1c9de026e4756902a1eb0670aca34,2026-10-21T20:13:59,,,high_value_damage,"Customer reports damage on high value product (> ₹10,000); hand over to Priority Resolution."
+TKT39f5eab298844c3590ce86ba3597ddc1,2026-10-21T20:13:59,,,high_value_damage,"Customer reports damage on high value product (> ₹10,000); hand over to Priority Resolution."
+TKT6d61c0eb600e46729bcb1cb8e804c48f,2026-10-21T20:14:01,89782837,,high_value_damage,"Customer reports damage on high value product (> ₹10,000); hand over to Priority Resolution."
+TKT9d2aa51a344e47b7b8f7def63fa2d39e,2026-10-21T20:14:19,77461439,,verification_failed,Caller verification failed twice for order 77461439.
+TKTa6244f0c38ac4139a4390490670af856,2026-10-21T20:14:19,77461439,,verification_failed,Caller verification failed twice for order 77461439.
+TKTf44400d4d36645f4b5160397c95ba4d4,2026-10-21T20:14:19,56646891,,verification_failed,Caller verification failed twice for order 56646891.
+TKT1009298f308648258c77b99afd991d61,2026-10-21T20:14:19,56646891,,verification_failed,Caller verification failed twice for order 56646891.

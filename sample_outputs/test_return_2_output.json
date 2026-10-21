@@ -1,0 +1,10 @@
+{
+  "file_name": "test_return_2.wav",
+  "transcription": "[Transcript unavailable: Please set GNANI_API_KEY]",
+  "agent_reply": "According to ZentroMart policy (RET-3): [RET-3] Change to electronics returns.",
+  "retrieved_chunks": [
+    "RET-3",
+    "RET-4"
+  ],
+  "audio_reply_file": "test_return_2_reply.wav"
+}

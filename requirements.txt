@@ -1,0 +1,19 @@
+# Core LLM & Framework
+openai>=1.20.0
+google-genai>=0.1.0
+
+# Vector Search & Embeddings
+chromadb>=0.5.0
+sentence-transformers>=2.5.0
+
+# Data & Numerical Processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Voice & Speech (Gnani.ai Official SDK)
+gnani-vachana>=0.8.0
+websockets>=12.0
+
+# Environment & CLI
+python-dotenv>=1.0.0
+tqdm>=4.66.0
